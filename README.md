@@ -1,6 +1,6 @@
 # Libft #
 ### main part: ###
-do `make` in terminal  
+do `make` in `Libft`  
 - memset
 - bzero
 - memcpy
@@ -36,7 +36,7 @@ do `make` in terminal
 - putendl_fd
 - putnbr_fd
 ### bonus part: ###
-do `make bonus` in terminal  
+do `make bonus` in `Libft`  
 - lstnew
 - lstadd_front
 - lstsize
@@ -48,7 +48,7 @@ do `make bonus` in terminal
 - lstmap
 
 # Doubly linked list #
-do `make` in terminal  
+do `make` in `doubly_linked_list`  
 - dlist_new
 - dlist_add_back
 - dlist_add_front
@@ -59,5 +59,5 @@ do `make` in terminal
 - dlist_get_end
 
 # Get next line #
-do `make` in terminal  
+do `make` in `get_next_line`  
 - get_next_line
