@@ -59,5 +59,4 @@ do `make` in `doubly_linked_list`
 - dlist_get_end
 
 # Get next line #
-do `make` in `get_next_line`  
-- get_next_line
+do `gcc -Wall -Wextra -Werror *.c -D BUFFER_SIZE=<size>` in `get_next_line` for build and `./a.out` for power
